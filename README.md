@@ -11,7 +11,7 @@ $ portmaster textproc/p5-CSS-Minifier-XS textproc/p5-JavaScript-Minifier-XS text
 ```
 **Ubuntu/Debian**
 ```bash
-apt-get install libcss-minifier-xs-perl libjavascript-minifier-xs-perl libhtml-packer-perl
+apt-get install libcss-minifier-xs-perl libjavascript-minifier-xs-perl libhtml-packer-perl libmodule-install-perl
 ```
 
 **Manual**:
